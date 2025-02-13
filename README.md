@@ -11,3 +11,5 @@ First commit. testing.
 Second commit. testing.
 
 Sixth commit. master.
+First commit. feature.
+Second commit. feature.
